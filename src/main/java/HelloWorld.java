@@ -1,3 +1,4 @@
+
 package main.java;
 
 /**
@@ -5,4 +6,5 @@ package main.java;
  */
 public class HelloWorld
 {
+  String ss = "sss";
 }
