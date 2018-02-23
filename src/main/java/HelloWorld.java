@@ -6,5 +6,6 @@ package main.java;
  */
 public class HelloWorld
 {
-  String ss = "sss";
+  String ss = "ssssss";
+
 }
